@@ -41,3 +41,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.headerstyle{
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 25px;
+            text-align: left;
+            text-transform: capitalize;
+        }
+        h1 > div{
+            font-size:70%;
+        }
+        
