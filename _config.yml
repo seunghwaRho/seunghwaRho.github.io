@@ -1,2 +1,4 @@
 name: Seunghwa Rho
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
