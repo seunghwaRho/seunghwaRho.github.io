@@ -63,4 +63,7 @@ div {
             font-size:55%;
             text-transform: lowercase;
         }
+        div>div{
+            font-size:96%;
+        }
         
