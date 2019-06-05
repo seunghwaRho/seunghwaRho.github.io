@@ -2,3 +2,4 @@ name: Seunghwa Rho
 markdown: kramdown
 plugins: 
   - jekyll-sitemap
+google_analytics: UA-141513535-1
