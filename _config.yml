@@ -1,5 +1,8 @@
 name: Seunghwa Rho
 markdown: kramdown
+title: Seunghwa Rho
+description: Seunghwa Rho Economics Econometrics QTM Emory
+url: http://seunghwaRho.github.io
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
