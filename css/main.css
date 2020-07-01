@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:"Perpetua", "Book Antiqua", Palatino, serif;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #F7CAC9;
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
@@ -34,7 +34,7 @@ p {
      font-weight: bold;
 }
 div {
-    font-family:"Palatino Linotype", "Perpetua", Palatino, serif;
+    font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
     }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -57,7 +57,7 @@ div {
     margin-bottom: 2px
 }
 .headerstyle{
-            font-family: "Perpetua", "Book Antiqua", Palatino, serif;
+            font-family: "Palatino Linotype", "Palatino Linotype", Palatino, serif;
             font-size: 25px;
             text-align: left;
             
