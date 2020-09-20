@@ -74,4 +74,9 @@ ul, ol
   font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
   font-size: 15px;
 }
+
+div>ul{
+    font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
+  font-size: 10px;  
+}
         
