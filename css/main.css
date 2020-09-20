@@ -69,4 +69,9 @@ div {
         div>div{
             font-size:90%;
         }
+ul, ol 
+{
+  font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
+  font-size: 15px;
+}
         
