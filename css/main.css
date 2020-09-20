@@ -72,11 +72,11 @@ div {
 ul, ol 
 {
   font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
-  font-size: 15px;
+ font-size:90%;
 }
 
 div>ul{
     font-family:"Palatino Linotype", "Palatino Linotype", Palatino, serif;
-  font-size: 10px;  
+  font-size:90%;
 }
         
