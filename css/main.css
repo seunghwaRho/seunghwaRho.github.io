@@ -21,18 +21,18 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
      text-transform: uppercase;
      margin-top: 20px;
      margin-bottom: 30px;
 }
 p {
     font-size: 1em;   
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
     margin-bottom: 2px;
 }
 div {
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
     text-transform: uppercase;
      margin-bottom: 2px;
     }
@@ -52,7 +52,7 @@ ul.posts li {
 }
 
 .headerstyle{
-            font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+            font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
             font-size: 23px;
             text-align: left;
             
@@ -67,12 +67,12 @@ div>div{
         }
 ul, ol 
 {
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
     font-size:90%;
 }
 
 div>ul{
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
     font-size:90%;
     text-transform: none;
 }
