@@ -35,6 +35,7 @@ p {
 }
 div {
     font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    text-transform: uppercase;
     }
 footer {
     border-top: 1px solid #d5d5d5;
