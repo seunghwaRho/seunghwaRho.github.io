@@ -53,7 +53,7 @@ ul.posts li {
 
 .headerstyle{
             font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-            font-size: 25px;
+            font-size: 23px;
             text-align: left;
             
         }
@@ -74,5 +74,6 @@ ul, ol
 div>ul{
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size:90%;
+    text-transform: none;
 }
         
