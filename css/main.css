@@ -27,8 +27,8 @@ h1 {
      margin-bottom: 30px;
 }
 p {
-    font-size: 1em;   
-     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: .8em;   
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     margin-bottom: 2px;
 }
 div {
@@ -63,7 +63,7 @@ h1 > div{
             text-transform: lowercase;
         }
 div>div{
-            font-size:90%;
+            font-size:95%;
             text-transform: none;
         }
 ul, ol 
