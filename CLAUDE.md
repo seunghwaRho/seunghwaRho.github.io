@@ -62,3 +62,18 @@ Jekyll 기반 GitHub Pages 개인 학술 웹사이트 (seunghwaRho.github.io)
 
 ## Commit Convention
 - 기존 커밋 메시지 스타일: 간결한 영문 (예: "update", "cv updated", "index updated")
+
+
+## 새 논문 추가 절차
+1. 사용자가 ScienceDirect URL 제공 (예: https://www.sciencedirect.com/science/article/abs/pii/...)
+2. Crossref API로 논문 메타데이터 조회 (제목, 저자, 저널, 권호, 페이지, 연도)
+   - API: `https://api.crossref.org/works?query.bibliographic=...&filter=issn:...`
+3. pages/research.html 수정:
+   - Working papers에서 해당 논문 제거
+   - Publications 맨 위에 [1]로 추가 (기존 형식 유지)
+   - 나머지 번호 재정렬
+4. 기존 Publications 항목 형식:
+   ```html
+   <li>[N] &ldquo; 제목&rdquo; (with 공저자), <em property="italic"><b>저널명</b></em>, vol. 권, 페이지, 연도</li>
+   ```
+   - PDF/부록 링크가 있으면 `<a href="/docs/파일명.pdf" target="_blank">pdf</a>` 추가
