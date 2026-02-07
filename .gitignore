@@ -1,1 +1,12 @@
+# Claude Code
+.claude/
 
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Jekyll build
+_site/
+.jekyll-cache/
